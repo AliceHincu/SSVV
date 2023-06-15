@@ -1,1 +1,2 @@
 # SSVV
+tldr: notificari teams
